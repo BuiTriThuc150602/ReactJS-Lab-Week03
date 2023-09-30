@@ -5,7 +5,7 @@ export default function App() {
   return(
     
     //for test show first screen
-    //<FirstScreen/>
+    // <FirstScreen/>
     //for test show Screcn1a
     <Screen1a/>
     );
